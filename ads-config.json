@@ -1,5 +1,5 @@
 {
-  "ads_enabled": false,
+  "ads_enabled": true,
   "minimum_ads_build": 15,
   "config_version": 1
 }
