@@ -1,5 +1,6 @@
 {
-  "ads_enabled": true,
-  "minimum_ads_build": 15,
-  "config_version": 1
+  "ads_enabled": false,
+  "minimum_ads_build": 17,
+  "paid_app_cutoff_date_utc": "2026-05-31T23:59:59Z",
+  "config_version": 3
 }
